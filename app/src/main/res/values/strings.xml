@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RP websites</string>
+
+    <string-array name="category">
+        <item>RP</item>
+        <item>SOI</item>
+    </string-array>
+
+
+    <string-array name="SOI">
+        <item>DMSD</item>
+        <item>DIT</item>
+    </string-array>
+
+    <string-array name="RP">
+        <item>Homepage</item>
+        <item>Student Life</item>
+    </string-array>
+</resources>
